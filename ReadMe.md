@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 Im a student of Front End | Back End<br>A junior software engineer | learning C language | learning html | learning css |<br>and have plans in a near future to learn JavaScript<br>👯 Estou procurando por estagio, e trabalho<br>🤝 I’m looking for Internship, and work<br>⚡ Adoro continuar aprendendo, e melhorando as minhas capacidades, isso<br>que me motiva mais<br>💬 I love to keep learning, and improving my abilities, that's what motivates me the most
+# About Me:
+🔭 Student of Front End | Back End<br> Student of Software Engineering in Universidade Rio Verde (UniRV) in 4º semester | C language | HTML | CSS | JAVA | <br>🤝 I’m looking for Internship, and work<br> 💬 I love to keep learning, and improving my abilities, that's what motivates me the most.
 
 
 ## 🌐 Socials:
