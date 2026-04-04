@@ -1,5 +1,5 @@
 # About Me:
-🔭 Student of Front End | Back End<br> Student of Software Engineering in Universidade Rio Verde (UniRV) in 4º semester | C language | HTML | CSS | JAVA | <br>🤝 I’m looking for Internship, and work<br> 💬 I love to keep learning, and improving my abilities, that's what motivates me the most.
+🔭 Student of Front End | Back End<br> Student of Software Engineering in Universidade Rio Verde (UniRV) in 5º semester | C language | HTML | CSS | JAVA | <br>🤝 I’m looking for Internship, and work<br> 💬 I love to keep learning, and improving my abilities, that's what motivates me the most.
 
 
 ## 🌐 Socials:
