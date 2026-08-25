@@ -1,6 +1,6 @@
 # ⚡ About Me:
 
-Meu nome é **Felipe Lopes**, tenho 21 anos, e sempre fui apaixonado por tecnologia em geral. Estou em busca de aprendizado, evolução e de novas oportunidades para aplicar e expandir meus conhecimentos no desenvolvimento de sistemas. Atualmente estou cursando uma graduação de Engenharia de Software na Universidade de Rio Verde (UniRV) — **6º de 8 semestres**.
+Meu nome é **Felipe Lopes**, tenho 21 anos, e sempre fui apaixonado por tecnologia em geral. Estou em busca de aprendizado, evolução e de novas oportunidades para aplicar e expandir meus conhecimentos no desenvolvimento de sistemas. Atualmente estou cursando uma graduação de Engenharia de Software na Universidade de Rio Verde (UniRV) — 6º de 8 semestres.
 
 ---
 
@@ -23,12 +23,22 @@ Meu nome é **Felipe Lopes**, tenho 21 anos, e sempre fui apaixonado por tecnolo
 
 ---
 
+## 📚 Currently focused on:
+
+- Linux & Ricing
+- QML & QT Quick
+- Bash Automation
+- x64dbg
+- Python
+- Cybersecurity
+
+---
+
 ## 📊 GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=felipelopesgoncalves&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=felipelopesgoncalves&theme=radical&hide_border=false" alt="Streak Stats" />
   <br/>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=felipelopesgoncalves&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
